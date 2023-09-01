@@ -10,3 +10,5 @@ Site Web Logikeintellectus.com
 
 ### Idioma: Español
 ![image](https://github.com/carlosjvargase/siteweb/assets/104727028/9d968a9f-f6f4-4791-8822-a1ba84aae08b)
+![image](https://github.com/carlosjvargase/siteweb/assets/104727028/ceb83c18-0803-4a5e-a781-013e7881303b)
+
